@@ -1,3 +1,4 @@
 "use strict"
 console.log('Hello world')
-first things 
+let num = 123;
+console.log(num)
